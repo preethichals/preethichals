@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN (advance), React Native**
 
-- 👨‍💻 All of my projects are available at [[https://portf-c.vercel.app](https://portf-c.vercel.app)
+- 👨‍💻 All of my projects are available at [[https://portf-c.vercel.app](https://portf-c.vercel.app)]
 
 - 💬 Ask me about **React,Html,CSS**
 
